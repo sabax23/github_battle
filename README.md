@@ -4,7 +4,7 @@ Implemented by following Tyler McGinnis' excellent [React tutorial](http://cours
 
 
 
-###### To run:
+##### To run:
 ```
 npm install
 npm run start
